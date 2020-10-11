@@ -1,4 +1,4 @@
-# CS3219 OTOT Assignment Task B
+# CS3219 OTOT Assignment Task A
 
 ## How to run Docker container
 1. Clone project to local machine
